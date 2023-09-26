@@ -1,0 +1,13 @@
+h3{
+    font-size: 20px !important;
+}
+.titulo{
+    background: linear linear-gradient(rgb(13, 211, 13),rgb(41, 41, 205), rgb(175, 26, 175))
+}
+.bt{
+    background: rgb(3, 8, 73);
+    font-size: 20px;
+}
+canvas{
+    border: 2px dashed cyan
+}
